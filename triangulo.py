@@ -1,8 +1,3 @@
-#n = 0
-# for i in range(1, 10):
-#     for j in range(i):
-#         print '*'
-#     print i
 tam2 = 5
 ancho = 1
 tam = 1
